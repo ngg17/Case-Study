@@ -1,0 +1,66 @@
+.copy_right_footer {
+    position: fixed;
+    color: darkturquoise;
+    bottom: 0;
+    width: 100%;
+    background-color: hotpink;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
+ ol h5
+ {
+     background: black;
+     padding: 13px;
+     border-radius: 20px;
+     color: white;
+ }
+ span
+ {
+     color: red;
+     font-size: 16px;
+ }	
+ li img
+ {
+     border-radius: 20px;
+ }
+ .bob
+ {
+    background-image: linear-gradient(to right top, #f7f7f2, #c5d86d, #f05d23, #260c1a);
+     padding: 30px;
+     border-radius: 20px;
+     margin-top: 50px;
+     box-shadow: 5px 5px 18px pink;
+ }
+ b
+ {
+     color: purple;
+ }
+ 
+ .bob3
+ {
+     text-align: center;
+     color: black;
+ }
+ .result
+ {
+     box-shadow: 5px 5px 18px grey;
+     letter-spacing: 2px;
+     background-image: linear-gradient(to right top, #ffac41, #ff1e56, #323232, #000000);
+     border-radius: 20px;
+     margin-top:30px;
+     padding: 20px;
+     border:2px solid grey
+ }
+#logo{
+    height: 100px;
+    width: 100px;
+}
+body{
+    background-image: linear-gradient(to right top, #e94560, #0f3460, #16213e, #1a1a2e);
+}
+
+#lulu{
+    color: darkturquoise;
+}
